@@ -1,5 +1,6 @@
 # shootThemDown
-A simple spaceship shooting game created using Processing
+A simple spaceship shooting game created using Processing.
+
 How to run:
   1. Go to https://processing.org/download/
   2. Download processing. *NOTE: This game was created in Procesing2, so please download version 2 and not version 3. Otherwise you may get some compilation errors.*
